@@ -1,31 +1,32 @@
-1. **Distributed Representations of Sentences and Documents**
-2. **GloVe: Global Vectors for Word Representation**
-3. **Skip-Thought Vectors**
-4. **Convolutional Neural Networks for Sentence Classification**
-5. **Character-level Convolutional Networks for Text Classification**
-6. **Hierarchical Attention Networks for Document Classification**
-7. **Neural Relation Extraction with Selective Attention over Instances**
-8. **End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF**
-9. **Sequence to Sequence Learning with Neural Networks**
-10. **Convolutional Sequence to Sequence Learning**
-11. **Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation**
-12. **Phrase-Based & Neural Unsupervised Machine Translation**
-13. **Get To The Point: Summarization with Pointer-Generator Networks**
-14. **End-To-End Memory Networks**
-15. **QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension**
-16. **Bidirectional Attention Flow for Machine Comprehension**
-17. **Adversarial Learning for Neural Dialogue Generation**
-18. **SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient**
-19. **Modeling Relational Data with Graph Convolutional Networks**
-20.  **Exploring the Limits of Language Modeling**
-21. **Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context**
-22. **An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling**
-23. **Deep contextualized word representations**
-24. **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**
-25. **Efficient Estimation of Word Representations in Vector Space**
-26. **Neural Machine Translation by Jointly Learning to Align and Translate**
-27. **Attention is all you need**
-28. **A Convolutional Neural Network for Modelling Sentences**
-29. **fasttext：Bag of Tricks for Efficient Text Classification**
-30. **Siamese recurrent architectures for learning sentence similarity**
+1. [**Distributed Representations of Sentences and Documents**](https://github.com/ai-paper/nlp/blob/master/papers/Distributed%20Representations%20of%20Sentences%20and%20Documents.pdf)
+2. [**GloVe: Global Vectors for Word Representation**](https://github.com/ai-paper/nlp/blob/master/papers/GloVe_%20Global%20Vectors%20for%20Word%20Representation.pdf)
+3. [**Skip-Thought Vectors**](https://github.com/ai-paper/nlp/blob/master/papers/Skip-Thought%20Vectors.pdf)
+4. [**Convolutional Neural Networks for Sentence Classification**](https://github.com/ai-paper/nlp/blob/master/papers/Convolutional%20Neural%20Networks%20for%20Sentence%20Classification.pdf)
+5. [**Character-level Convolutional Networks for Text Classification**](https://github.com/ai-paper/nlp/blob/master/papers/Character-level%20Convolutional%20Networks%20for%20Text%20Classification.pdf)
+6. [**Hierarchical Attention Networks for Document Classification**](https://github.com/ai-paper/nlp/blob/master/papers/Hierarchical%20Attention%20Networks%20for%20Document%20Classification.pdf)
+7. [**Neural Relation Extraction with Selective Attention over Instances**](https://github.com/ai-paper/nlp/blob/master/papers/Neural%20Relation%20Extraction%20with%20Selective%20Attention%20over%20Instances.pdf)
+8. [**End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF**](https://github.com/ai-paper/nlp/blob/master/papers/End-to-end%20Sequence%20Labeling%20via%20Bi-directional%20LSTM-CNNs-CRF.pdf)
+9. [**Sequence to Sequence Learning with Neural Networks**](https://github.com/ai-paper/nlp/blob/master/papers/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.pdf)
+10. [**Convolutional Sequence to Sequence Learning**](https://github.com/ai-paper/nlp/blob/master/papers/Convolutional%20Sequence%20to%20Sequence%20Learning.pdf)
+11. [**Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation**](https://github.com/ai-paper/nlp/blob/master/papers/Google's%20Neural%20Machine%20Translation%20System_%20Bridging%20the%20Gap%20between%20Human%20and%20Machine%20Translation.pdf)
+12. [**Phrase-Based & Neural Unsupervised Machine Translation**](https://github.com/ai-paper/nlp/blob/master/papers/Phrase-Based%20%26%20Neural%20Unsupervised%20Machine%20Translation.pdf)
+13. [**Get To The Point: Summarization with Pointer-Generator Networks**](https://github.com/ai-paper/nlp/blob/master/papers/Get%20To%20The%20Point_%20Summarization%20with%20Pointer-Generator%20Networks.pdf)
+14. [**End-To-End Memory Networks**](https://github.com/ai-paper/nlp/blob/master/papers/End-To-End%20Memory%20Networks.pdf)
+15. [**QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension**](https://github.com/ai-paper/nlp/blob/master/papers/QANet_%20Combining%20Local%20Convolution%20with%20Global%20Self-Attention%20for%20Reading%20Comprehension.pdf)
+16. [**Bidirectional Attention Flow for Machine Comprehension**](https://github.com/ai-paper/nlp/blob/master/papers/Bidirectional%20Attention%20Flow%20for%20Machine%20Comprehension.pdf)
+17. [**Adversarial Learning for Neural Dialogue Generation**](https://github.com/ai-paper/nlp/blob/master/papers/Adversarial%20Learning%20for%20Neural%20Dialogue%20Generation.pdf)
+18. [**SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient**](https://github.com/ai-paper/nlp/blob/master/papers/SeqGAN_%20Sequence%20Generative%20Adversarial%20Nets%20with%20Policy%20Gradient.pdf)
+19. [**Modeling Relational Data with Graph Convolutional Networks**](https://github.com/ai-paper/nlp/blob/master/papers/Modeling%20Relational%20Data%20with%20Graph%20Convolutional%20Networks.pdf)
+20.  [**Exploring the Limits of Language Modeling**](https://github.com/ai-paper/nlp/blob/master/papers/Exploring%20the%20Limits%20of%20Language%20Modeling.pdf)
+21. [**Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context**](https://github.com/ai-paper/nlp/blob/master/papers/Transformer-XL_%20Attentive%20Language%20Models%20Beyond%20a%20Fixed-Length%20Context.pdf)
+22. [**An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling**](https://github.com/ai-paper/nlp/blob/master/papers/An%20Empirical%20Evaluation%20of%20Generic%20Convolutional%20and%20Recurrent%20Networks%20for%20Sequence%20Modeling.pdf)
+23. [**Deep contextualized word representations**](https://github.com/ai-paper/nlp/blob/master/papers/Deep%20contextualized%20word%20representations.pdf)
+24. [**BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**](https://github.com/ai-paper/nlp/blob/master/papers/BERT_%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.pdf)
+25. [**XLNet: Generalized Autoregressive Pretraining for Language Understanding**](https://github.com/ai-paper/nlp/blob/master/papers/XLNet_%20Generalized%20Autoregressive%20Pretraining%20for%20Language%20Understanding.pdf)
+26. [**Efficient Estimation of Word Representations in Vector Space**](https://github.com/ai-paper/nlp/blob/master/papers/Efficient%20Estimation%20of%20Word%20Representations%20in%20Vector%20Space.pdf)
+27. [**Neural Machine Translation by Jointly Learning to Align and Translate**](https://github.com/ai-paper/nlp/blob/master/papers/Neural%20Machine%20Translation%20by%20Jointly%20Learning%20to%20Align%20and%20Translate.pdf)
+28. [**Attention is all you need**](https://github.com/ai-paper/nlp/blob/master/papers/Attention%20Is%20All%20You%20Need.pdf)
+29. [**A Convolutional Neural Network for Modelling Sentences**](https://github.com/ai-paper/nlp/blob/master/papers/A%20Convolutional%20Neural%20Network%20for%20Modelling%20Sentences.pdf)
+30. [**Bag of Tricks for Efficient Text Classification**](https://github.com/ai-paper/nlp/blob/master/papers/Bag%20of%20Tricks%20for%20Efficient%20Text%20Classification%20.pdf)
+31. [**Siamese recurrent architectures for learning sentence similarity**](https://github.com/ai-paper/nlp/blob/master/papers/Siamese%20Recurrent%20Architectures%20for%20Learning%20Sentence%20Similarity.pdf)
 
