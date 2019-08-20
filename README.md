@@ -1,5 +1,3 @@
-# Natural Language Processing Paper
-
 1. **Distributed Representations of Sentences and Documents**
 2. **GloVe: Global Vectors for Word Representation**
 3. **Skip-Thought Vectors**
